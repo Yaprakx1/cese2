@@ -1,4 +1,4 @@
-Technologies I use: ReactNative, Redux, Nativewind
+Technologies I use: ReactNative, subabase ,zustang
 
 
 
